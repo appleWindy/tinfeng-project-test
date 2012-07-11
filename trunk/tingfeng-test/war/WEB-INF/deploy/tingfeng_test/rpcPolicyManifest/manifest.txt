@@ -1,0 +1,3 @@
+# Module tingfeng_test
+# RPC service class, partial path of RPC policy file
+com.appspot.tingfeng.test.client.GreetingService, 7BFE743B5CAEEC349149E35806704B59.gwt.rpc

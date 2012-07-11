@@ -1,0 +1,2 @@
+serviceClass: com.appspot.tingfeng.test.client.GreetingService
+path: 7BFE743B5CAEEC349149E35806704B59.gwt.rpc
